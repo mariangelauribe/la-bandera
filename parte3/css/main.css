@@ -1,0 +1,21 @@
+
+
+.amarillo{
+ 	height: 100px;
+ 	width: 200px;
+ 	background-color: yellow;
+ 	font-size: 18px;
+ 	padding: 10px;
+ 	margin-top: 10px;
+ 	display: inline-block;
+ }
+ .rojo{
+ 	height: 100px;
+ 	width: 200px;
+ 	background-color: red;
+ 	font-size: 18px;
+ 	padding: 10px;
+ 	margin-top: 10px;
+ 	display: inline-block;
+ }
+
